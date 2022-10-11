@@ -1,0 +1,1 @@
+{"name":"Local: ReverseLL","url":"d:\\image\\Desktop\\JustDS\\LinkedList\\ReverseLL.java","tests":[{"id":1659857995610,"input":"1 2 3 4 5","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\image\\Desktop\\JustDS\\LinkedList\\ReverseLL.java","group":"local","local":true}
